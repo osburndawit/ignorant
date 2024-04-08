@@ -1,0 +1,5 @@
+requirements.txt 
+https://github.com/Plasmonix/SnapBrute
+ cd SnapBrute
+ main.py
+ main.py
